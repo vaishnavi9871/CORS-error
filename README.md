@@ -1,0 +1,2 @@
+# CORS-error
+CORS
